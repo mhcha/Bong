@@ -1,0 +1,5 @@
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Service\bin\Bong.Service.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Service\bin\Bong.Service.pdb
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Service\obj\Debug\Bong.Service.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Service\obj\Debug\Bong.Service.pdb

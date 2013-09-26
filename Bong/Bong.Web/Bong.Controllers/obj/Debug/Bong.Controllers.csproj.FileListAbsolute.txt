@@ -1,0 +1,5 @@
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Controllers\bin\Debug\Bong.Controllers.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Controllers\bin\Debug\Bong.Controllers.pdb
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Controllers\obj\Debug\ResolveAssemblyReference.cache
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Controllers\obj\Debug\Bong.Controllers.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Controllers\obj\Debug\Bong.Controllers.pdb

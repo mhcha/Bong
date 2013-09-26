@@ -1,0 +1,14 @@
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\bin\Bong.Web.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\bin\Bong.Web.pdb
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\bin\EntityFramework.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\bin\EntityFramework.xml
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\Bong.Web.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\Bong.Web.pdb
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\bin\Bong.Web.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\bin\Bong.Web.pdb
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\bin\EntityFramework.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\bin\EntityFramework.xml
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\Bong.Web.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web\obj\Debug\Bong.Web.pdb

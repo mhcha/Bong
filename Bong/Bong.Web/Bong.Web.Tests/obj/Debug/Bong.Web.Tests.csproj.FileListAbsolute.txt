@@ -1,0 +1,16 @@
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.dll.config
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.pdb
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.pdb
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\Bong.Web.Tests.dll
+E:\Persnal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\Bong.Web.Tests.pdb
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.dll.config
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.Tests.pdb
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\bin\Debug\Bong.Web.pdb
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\Bong.Web.Tests.dll
+E:\Repository\Personal_Repository\Bong\Bong.Web\Bong.Web.Tests\obj\Debug\Bong.Web.Tests.pdb
